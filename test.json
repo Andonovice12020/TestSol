@@ -2,4 +2,11 @@
   "name": "JoyCoin",
   "symbol": "JOY",
   "description": "Joy's own Coin",
-  "image":
+  "image": "https://github.com/Andonovice12020/TestSol/blob/main/e69ad87c-8633-4815-a997-027af6c6f43c.JPG",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "Value": "Developer Portal"
+    }
+  ]
+}
